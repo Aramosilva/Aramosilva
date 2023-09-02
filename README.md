@@ -45,7 +45,6 @@
 
 ##
 
-[![Snake animation](https://github-readme-stats.vercel.app/api?username=Aramos)](https://github.com/anuraghazra/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/aramosilva/aramosilva/blob/output/github-contribution-grid-snake.svg)
 
