@@ -19,7 +19,7 @@
 <div>
 	<a href="https://github.com/Aramosilva">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aramosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramosilva&layout=compact&langs_count=16&theme=dracula"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramosilva&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
     
@@ -45,7 +45,6 @@
 
 ##
 
-![Snake animation](https://github.com/Aramosilva/Aramosilva/blob/main/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/Aramosilva/Aramosilva/output/snake.svg" alt="Snake animation" />
 
 
