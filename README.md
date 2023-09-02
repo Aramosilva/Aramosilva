@@ -45,6 +45,5 @@
 
 ##
 
-
-![snake animation](https://github.com/aramosilva/aramosilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aramosilva/Aramosilva/blob/output/github-contribution-grid-snake.svg)
 
